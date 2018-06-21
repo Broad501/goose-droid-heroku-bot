@@ -1,12 +1,12 @@
 {
-  "name": "goose-droid",
+  "name": "my-bot",
   "version": "1.0.0",
   "description": "The best MOTHER FUCKEN BOT BOT!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jag",
+  "author": "Me",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
